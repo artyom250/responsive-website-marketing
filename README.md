@@ -1,6 +1,6 @@
 ![Example Image](./final.png)
 
-## Responsive Marketing Website
+## 💵 Responsive Marketing Website
 
 * Uses fonts from Google's Web Font collection.
 * Resize items anywhere within the grid to produce powerful, responsive layouts.
