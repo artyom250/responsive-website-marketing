@@ -1,4 +1,4 @@
-![Example Image](./final.png)
+![Example Image](./render.png)
 
 ## Responsive Marketing Website
 
