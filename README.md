@@ -1,3 +1,5 @@
+![Example Image](./final.png)
+
 ## Responsive Marketing Website
 
 * Uses fonts from Google's Web Font collection.
@@ -5,5 +7,3 @@
 * Reusable elements you can use across your site.
 * Site navigation automatically collapses into a mobile-friendly menu on smaller devices.
 * Displays perfectly on desktops, tablets, and phones.
-
-![Example Image](./final.png)
