@@ -1,5 +1,3 @@
-![Example Image](./render.png)
-
 ## Responsive Marketing Website
 
 * Uses fonts from Google's Web Font collection.
