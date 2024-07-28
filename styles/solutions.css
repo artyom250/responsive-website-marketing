@@ -1,0 +1,40 @@
+.features.solutions .feature:nth-child(1) {
+    border: none;
+    grid-row: span 2;
+    padding: 0;
+}
+
+.features.solutions .feature img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.features.solutions .feature {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.features.solutions .feature p:nth-child(1) {
+    background: linear-gradient(to left, #94a3b8, #cbd5e1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;  
+    font-weight: 600;
+    font-size: 75px;
+}
+
+.features.solutions .feature p:nth-child(2) {
+    color: #999;
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 1.5em;
+    max-width: 300px;
+}
+
+.features.solutions {
+    grid-template-rows: repeat(2, 306.2px);
+}

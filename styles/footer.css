@@ -1,0 +1,60 @@
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 150px 100px 150px;
+}
+
+footer h3 {
+    background: linear-gradient(to left, #94a3b8, #cbd5e1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;  
+}
+
+footer div ul {
+    margin-top: 25px;
+}
+
+footer div ul li:not(:nth-child(1)) {
+    margin-top: 12.5px;
+}
+
+.footer-media li:not(:nth-child(1)) {
+    margin-top: 0px;
+}
+
+footer div ul li a {
+    color: #6b7280;
+    display: flex;
+    font-weight: 600;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+footer div ul li a i {
+    color: #6b7280;
+    font-size: 24px;
+    transition: 0.3s;
+}
+
+footer ul li a:hover {
+    color: white;
+}
+
+.footer-links {
+    display: flex;
+    gap: 70px;
+}
+
+.footer-media {
+    display: flex;
+    gap: 15px;
+}
+
+.footer-media li a:hover i {
+    color: white;
+}
+
+footer span {
+    color: #6b7280;
+    font-weight: 500;
+}

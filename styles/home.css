@@ -1,0 +1,129 @@
+#home {
+    background: linear-gradient(#1f2937, #030712);
+}
+
+.link {
+    background: linear-gradient(120deg, #374151, #1f2937);
+    color: white;
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    gap: 15px;
+    padding: 15px 30px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.link.two {
+    background: none;
+    padding: 0px;
+}
+
+.link i {
+    font-size: 20px;
+}
+
+.hero {
+    color: white;
+    position: relative;
+    padding: 100px 0px;
+}
+
+.hero-bg {
+    position: absolute;
+    pointer-events: none;
+    opacity: 0.15;
+    width: 100%;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.heading {
+    background: linear-gradient(to left, #94a3b8, #cbd5e1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;  
+    font-weight: 700;
+    max-width: 650px;
+    font-size: 75px;
+    line-height: 1.2em;
+}
+
+.heading.two {
+    font-size: 50px;
+    max-width: 600px;
+}
+
+.heading.three {
+    font-size: 50px;
+    max-width: 550px;
+}
+
+.heading.four {
+    font-size: 70px;
+    max-width: 880px;
+    margin-bottom: 50px;
+}
+
+.desc {
+    color: #999;
+    font-weight: 500;
+    margin: 30px 0px 50px 0px;
+    max-width: 525px;
+    font-size: 20px;
+    line-height: 1.5em;
+}
+
+.desc.two {
+    margin: 0px;
+}
+
+.desc.three {
+    margin: 20px 0px 40px 0px;
+}
+
+.desc.four {
+    color: #6b7280;
+    margin: 28px 0px 0px 0px;
+    font-size: 17px;
+}
+
+.desc.five {
+    color: #6b7280;
+    margin: 20px 0px 40px 0px;
+    font-size: 17px;
+}
+
+.desc.six {
+    margin: 25px 0px 50px 0px;
+    max-width: 425px;
+}
+
+.desc span {
+    color: #d1d5db;
+}
+
+.links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}
+
+.clients {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+    margin-top: 75px;
+}
+
+.clietns-img {
+    display: flex;
+    align-items: center;
+    gap: 35px;
+}
+
+.clietns-img img {
+    width: 65px;
+}
