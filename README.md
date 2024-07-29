@@ -8,4 +8,4 @@
 * Site navigation automatically collapses into a mobile-friendly menu on smaller devices.
 * Displays perfectly on desktops, tablets, and phones.
 
- ❤️ Follow my [Creahsion](https://www.youtube.com/c/Bedimcode) account on Instagram!
+ ❤️ Follow my [Creahsion](https://www.instagram.com/creashioncode/) account on Instagram!
